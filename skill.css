@@ -14,14 +14,13 @@ body{
     padding-top: 20px;
 }
 
-
-
 .header{
     text-align: center;
     color: #fff;
     padding: 1rem;
     position: relative;
 }
+
 .header::after{
     content: "";
     position: absolute;
